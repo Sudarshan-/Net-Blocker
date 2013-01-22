@@ -1,0 +1,12 @@
+{
+    "name": "Content Setting Demo",
+    "version": "1",
+    "permissions": [
+        "contentSettings"
+    ],
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "screen.png",
+        "default_popup": "popup.html"
+    }
+}
